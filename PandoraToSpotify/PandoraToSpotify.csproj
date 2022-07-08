@@ -9,16 +9,22 @@
 
   <ItemGroup>
     <PackageReference Include="SpotifyAPI.Web" Version="6.2.2" />
+<<<<<<< HEAD
     <PackageReference Include="SpotifyAPI.Web.Auth" Version="6.2.2" />
+=======
+>>>>>>> 8197deb64b8ab3b1e215b03376281a00b67247c6
   </ItemGroup>
 
   <ItemGroup>
     <None Update=".env">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+<<<<<<< HEAD
     <None Update="BENEE Radio.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+=======
+>>>>>>> 8197deb64b8ab3b1e215b03376281a00b67247c6
   </ItemGroup>
 
 </Project>
